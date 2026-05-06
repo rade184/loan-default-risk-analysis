@@ -1,8 +1,8 @@
-# loan-default-risk-analysis
 # Loan Default Risk Analysis
 
+Excel-based analysis of borrower default risk with practical underwriting recommendations.
+
 ## Overview
-This project explores loan default risk using borrower-level data and Excel-based analysis. The goal is to identify the most important factors associated with default and suggest practical underwriting thresholds.
 
 ## Business Problem
 Lenders need a simple and reliable way to detect high-risk borrowers before approving loans. This project analyzes applicant characteristics to understand which variables are most strongly linked to default risk.
