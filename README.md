@@ -47,6 +47,7 @@ Suggested underwriting thresholds:
 - Minimum credit score: 600
 - Warning threshold for DTI: 40%+
 - Higher-interest loans should receive stricter review
+<img width="1872" height="685" alt="image" src="https://github.com/user-attachments/assets/9b4cfe7a-5b0a-4c3d-8119-b260a023db82" />
 
 ## Project Outcome
 This project demonstrates how Excel can be used to support risk analysis and business decision-making. It also shows how simple segmentation and default-rate analysis can produce practical recommendations for underwriting teams.
