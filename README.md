@@ -21,8 +21,14 @@ The dataset includes borrower and loan-related variables such as:
 - Data binning
 - Correlation analysis
 - Charts and summary tables
+## Skills Demonstrated
+- Data cleaning
+- Risk segmentation
+- Default rate analysis
+- Correlation analysis
+- Business recommendation writing
 
-## Analysis Process
+- ## Analysis Process
 The analysis focused on identifying the variables most associated with default. I grouped continuous variables into meaningful categories, compared default rates across segments, and reviewed correlation results to highlight the strongest risk factors.
 
 ## Key Findings
