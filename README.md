@@ -51,10 +51,11 @@ Suggested underwriting thresholds:
 - `README.md` – project summary and findings
 - Excel workbook – analysis file
 - Charts / screenshots – visuals supporting key insights
-<img width="325" height="254" alt="image" src="https://github.com/user-attachments/assets/6cfeb504-ffff-4159-b924-542a1e617263" />
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/b497fa66-d58f-48c4-83e5-bb15c4797e11" />
+<img width="624" height="452" alt="image" src="https://github.com/user-attachments/assets/e4df7219-113c-4325-8510-03654fee32c4" />
+<img width="769" height="662" alt="image" src="https://github.com/user-attachments/assets/7ec1c298-3307-46e6-8623-bf2899ee764e" />
 
-<img width="261" height="256" alt="image" src="https://github.com/user-attachments/assets/b4ca36e7-8e21-4b31-80cf-8d3c1880c9a3" />
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/9aea0eda-074b-40af-b17e-080ce6526fa7" />
+
 
 ## Project Outcome
 This project demonstrates how Excel can be used to support risk analysis and business decision-making. It also shows how simple segmentation and default-rate analysis can produce practical recommendations for underwriting teams.
